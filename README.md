@@ -36,7 +36,7 @@ npm install
 npm run dev
 ```
 
-Open http://localhost:3000.
+Open [http://localhost:3000.](https://podcasts-knew-waters-multiple.trycloudflare.com/)
 
 ## Environment variables
 
