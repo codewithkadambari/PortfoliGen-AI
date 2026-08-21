@@ -36,8 +36,7 @@ npm install
 npm run dev
 ```
 
-Open https://podcasts-knew-waters-multiple.trycloudflare.com/
-
+Open https://portfoligen-ai-app-codewithkadambaris-projects.vercel.app/
 ## Environment variables
 
 Copy `.env.example` to `.env.local` and add your own API key if you implement live AI analysis.
