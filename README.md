@@ -36,7 +36,8 @@ npm install
 npm run dev
 ```
 
-Open https://portfoligen-ai-app-codewithkadambaris-projects.vercel.app/
+Open https://portfoligen-ai.vercel.app/<img width="1672" height="941" alt="Codex Image Aug 21, 2026, 06_35_49 PM" src="https://github.com/user-attachments/assets/bc397ef0-0ce2-4214-b679-493695296658" />
+
 ## Environment variables
 
 Copy `.env.example` to `.env.local` and add your own API key if you implement live AI analysis.
